@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "framework": "nextjs",
+  "outputDirectory": ".next",
+  "buildCommand": "npm run build",
+  "devCommand": "npm run dev",
+  "installCommand": "npm install",
+  "nodeVersion": "22.x",
+  "regions": [
+    "iad1"
+  ],
+  "public": true
+}
